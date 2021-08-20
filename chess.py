@@ -376,6 +376,6 @@ while(gameOver == 0):
 # Queen = Q 11 21
 # Horse = H 12 22
 # Tower = T 13 23
-#  Elephant = E 14 24 
+# Elephant = E 14 24 
 # Kgnight = Kg 15 25
  
